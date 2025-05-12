@@ -62,8 +62,12 @@ The dataset includes various features:
    jupyter notebook "ML MINOR PROJECT(PRIYAM KESARWANI).ipynb"
    ```
 
+---
+
  ## 📈 Model Performance
   The notebook includes evaluation metrics such as accuracy, precision, recall, and F1-score to assess model performance. Visualizations like confusion matrices and ROC curves are also provided for deeper insights.
+
+---
 
  ## Screenshots
 
@@ -79,11 +83,5 @@ The dataset includes various features:
 
 ![Screenshot 2025-05-12 203114](https://github.com/user-attachments/assets/91d9bda9-4363-454b-9bc9-04ffe3aa3778)
 
-
-
-
-
-
-
-   
+---
 
